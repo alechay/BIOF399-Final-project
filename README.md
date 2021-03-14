@@ -1,4 +1,8 @@
 # BIOF399-Final-project
+
+[![Open In Colab]
+(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alechay/BIOF399-Final-project/blob/main/mri_classification.ipynb)
+
 BIOF 399 Deep Learning for Healthcare Image Analysis final project <br>
 <br>
 Please upload submit an outline for your final project presentation. <br>
@@ -17,5 +21,5 @@ Worldwide, around 50 million people have dementia, with nearly 60% living in low
 
 I expect to create a model that performs well above chance in this binary classification task. I will adjust the hyperparameters (dropout, learning rate, etc.), experiment with different layers, change the number of neurons in those layers, and experiment with other modifications to find the best performing model. I will measure the model's performance on the test set using metrics such as precision, recall, and f1-score. I will also evaluate performance through visualizations such as confusion matrices and training accuracy curves. The final product will be the model, saved as an h5 file, and the Jupyter notebook walking the reader through how the model was built and evaluated. 
 
-https://keras.io/examples/vision/3D_image_classification/
+https://keras.io/examples/vision/3D_image_classification/ <br>
 https://www.oasis-brains.org/
