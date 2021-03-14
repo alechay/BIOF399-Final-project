@@ -1,7 +1,6 @@
 # BIOF399-Final-project
 
-[![Open In Colab]
-(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alechay/BIOF399-Final-project/blob/main/mri_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alechay/BIOF399-Final-project/blob/main/mri_classification.ipynb)
 
 BIOF 399 Deep Learning for Healthcare Image Analysis final project <br>
 <br>
